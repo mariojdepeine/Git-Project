@@ -11,6 +11,7 @@
 		37055765288EAB0B00B07A4A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37055764288EAB0B00B07A4A /* ContentView.swift */; };
 		37055767288EAB0C00B07A4A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37055766288EAB0C00B07A4A /* Assets.xcassets */; };
 		3705576A288EAB0C00B07A4A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37055769288EAB0C00B07A4A /* Preview Assets.xcassets */; };
+		37055771288EB7E300B07A4A /* ModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37055770288EB7E300B07A4A /* ModalView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		37055764288EAB0B00B07A4A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		37055766288EAB0C00B07A4A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		37055769288EAB0C00B07A4A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		37055770288EB7E300B07A4A /* ModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				37055762288EAB0B00B07A4A /* Git_ProjectApp.swift */,
 				37055764288EAB0B00B07A4A /* ContentView.swift */,
+				37055770288EB7E300B07A4A /* ModalView.swift */,
 				37055766288EAB0C00B07A4A /* Assets.xcassets */,
 				37055768288EAB0C00B07A4A /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				37055771288EB7E300B07A4A /* ModalView.swift in Sources */,
 				37055765288EAB0B00B07A4A /* ContentView.swift in Sources */,
 				37055763288EAB0B00B07A4A /* Git_ProjectApp.swift in Sources */,
 			);
